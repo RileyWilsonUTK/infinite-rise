@@ -1,0 +1,12 @@
+CS302 Project Rubric (Riley Wilson)
+
++ 10 = Infinite Scrolling level setup
++ 5 = Coins System
++ 5 = Coins for Cosmetics
++ 10 = Main Menu, Death Screen, UI
++ 10 = Actual gameplay loop and level design
+
+
+This challenge went well, we got the basis of our project setup and ready to go.
+We setup our GitHub repo and figured out how to properly sync our work together.
+We found an asset pack to use for our game which will help it to stand out visually.
