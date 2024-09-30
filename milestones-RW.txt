@@ -1,4 +1,8 @@
 CS302 Project Rubric (Riley Wilson)
+Repo:
+https://github.com/RileyWilsonUTK/infinite-rise
+Time Log:
+https://docs.google.com/spreadsheets/d/1l_pDwHnqmoAtzPjXFJCuNPi666hlJvujKAHKxqdScbk/edit?gid=0#gid=0
 
 + 10 = Infinite Scrolling level setup
 + 5 = Coins System
